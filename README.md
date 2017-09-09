@@ -1,2 +1,5 @@
-# Arduino_basic_two_leds_blink
-There are two LEDs. They blink alternatively. When one is ON, other is OFF and so on.
+# Arduino_basic
+Basic Arduino programs.
+included programs are
+    one LED blink
+    two LEDs blink alternatively
